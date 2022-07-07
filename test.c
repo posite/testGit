@@ -6,4 +6,5 @@ int main(){
 	printf("new one!\n");
 	printf("good\n");
 	printf("bye");
+	printf("say");
 }
