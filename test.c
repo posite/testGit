@@ -7,4 +7,5 @@ int main(){
 	printf("good\n");
 	printf("bye");
 	printf("say");
+	printf("no");
 }
